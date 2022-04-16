@@ -1,0 +1,21 @@
+{
+    "gridSize": {
+        "x": 8.0,
+        "y": 8.0
+    },
+    "name": "Font",
+    "path": "Assets/Img/Font.png",
+    "sprites": [
+        {
+            "dimension": {
+                "x": 0.125,
+                "y": 1.0
+            },
+            "name": "A",
+            "position": {
+                "x": 0.0,
+                "y": 0.875
+            }
+        }
+    ]
+}

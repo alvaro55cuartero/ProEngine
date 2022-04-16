@@ -1,0 +1,118 @@
+[
+    {
+        "gridSize": {
+            "x": 32.0,
+            "y": 32.0
+        },
+        "name": "TileSet",
+        "path": "../Game/assets/img/png/Tilset.png",
+        "sprites": [
+            {
+                "dimension": {
+                    "x": 1.0,
+                    "y": 1.0
+                },
+                "name": "SUELO",
+                "position": {
+                    "x": 0.0,
+                    "y": 127.0
+                }
+            },
+            {
+                "dimension": {
+                    "x": 1.0,
+                    "y": 2.0
+                },
+                "name": "COLUMNA",
+                "position": {
+                    "x": 0.0,
+                    "y": 125.0
+                }
+            }
+        ]
+    },
+    {
+        "gridSize": {
+            "x": 32.0,
+            "y": 32.0
+        },
+        "name": "Personaje_1",
+        "path": "../Game/assets/img/png/Personajes/Personaje_1.png",
+        "sprites": [
+            {
+                "dimension": {
+                    "x": 1.0,
+                    "y": 2.0
+                },
+                "name": "PLAYER",
+                "position": {
+                    "x": 0.0,
+                    "y": 14.0
+                }
+            }
+        ]
+    },
+    {
+        "gridSize": {
+            "x": 32.0,
+            "y": 32.0
+        },
+        "name": "Layer_0",
+        "path": "../Game/assets/img/png/mapa/scene_1/Layer_0.png",
+        "sprites": [
+            {
+                "dimension": {
+                    "x": 50.0,
+                    "y": 50.0
+                },
+                "name": "Layer_0",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "gridSize": {
+            "x": 32.0,
+            "y": 32.0
+        },
+        "name": "Layer_1",
+        "path": "../Game/assets/img/png/mapa/scene_1/Layer_1.png",
+        "sprites": [
+            {
+                "dimension": {
+                    "x": 50.0,
+                    "y": 50.0
+                },
+                "name": "Layer_1",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            }
+        ]
+    },
+    {
+        "gridSize": {
+            "x": 32.0,
+            "y": 32.0
+        },
+        "name": "Layer_2",
+        "path": "../Game/assets/img/png/mapa/scene_1/Layer_2.png",
+        "sprites": [
+            {
+                "dimension": {
+                    "x": 50.0,
+                    "y": 50.0
+                },
+                "name": "Layer_2",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            }
+        ]
+    }
+]

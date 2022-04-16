@@ -1,3 +1,0 @@
-[submodule "ProEngine/vendor/GLFW"]
-	path = ProEngine/vendor/GLFW
-	url = https://github.com/glfw/glfw.git

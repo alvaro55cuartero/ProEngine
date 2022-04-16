@@ -5,14 +5,19 @@
 **.vcxproj
 **.vcxproj.filters
 **.vcxproj.user
+**.hint
+
+#Projects
+
+SandBox/
+Game/
+
 
 #Directives
 
 vendor/
 ProEngine/vendor/
-
-Game/assets/img/Psds/
-**/REF/
+**.psd
 
 bin/
 bin-int/
